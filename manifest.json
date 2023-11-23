@@ -1,0 +1,18 @@
+{
+    "name": "Happy Cat",
+    "version": "1.0.0",
+    "description": "Make some Miao in the day",
+    "manifest_version": 3,
+    "author": "Unicorne IT",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Enjoy the Moment"
+    },
+    "icons": {
+    	"16": "icons/cat16.png",
+    	"24": "icons/cat24.png",
+    	"32": "icons/cat32.png",
+    	"64": "icons/cat64.png",
+    	"128": "icons/cat128.png"
+    }
+}
